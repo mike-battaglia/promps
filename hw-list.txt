@@ -1,0 +1,25 @@
+List all of the departments you would find in a hardware store like Home Depot.
+
+1. Lumber and Building Materials
+2. Plumbing and Pipes
+3. Electrical and Lighting
+4. Hardware and Fasteners
+5. Tools and Accessories
+6. Paint and Wallpaper
+7. Flooring and Tiles
+8. Doors and Windows
+9. Kitchen and Bath
+10. Lawn and Garden
+11. Outdoor Power Equipment
+12. Appliances and HVAC
+13. Storage and Organization
+14. Safety and Security
+15. Workwear and Safety Gear
+16. Automotive Supplies
+17. Home Decor and Furniture
+18. Seasonal and Holiday Decorations
+19. Cleaning Supplies
+20. Outdoor Recreation
+
+Give me a CSV listing all of the items you would find in department 2.
+Item Group,Item Type
