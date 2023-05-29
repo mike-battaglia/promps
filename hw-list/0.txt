@@ -1,4 +1,4 @@
-List all of the departments you would find in a hardware store like Home Depot.
+Here is a list of all the departments you would find in a hardware store like Home Depot.
 
 1. Lumber and Building Materials
 2. Plumbing and Pipes
@@ -21,5 +21,5 @@ List all of the departments you would find in a hardware store like Home Depot.
 19. Cleaning Supplies
 20. Outdoor Recreation
 
-Give me a CSV listing all of the items you would find in department 2.
+Give me a CSV listing all of the items you would find in ____.
 Item Group,Item Type
